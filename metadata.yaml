@@ -1,4 +1,8 @@
 _repo: Anthropological-Survey-in-Alaska_50752
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50752-h/images/cover.jpg
 creator:
   author:
     agent_name: Hrdlička, Aleš
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36771
     wikipedia: http://en.wikipedia.org/wiki/Ale%C5%A1_Hrdli%C4%8Dka
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50752#Anthropological-Survey-in-Alaska
 gutenberg_issued: '2015-12-23'
 gutenberg_type: Text
 identifiers:
